@@ -39,12 +39,13 @@
 </a>
 
 
-<!-- Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+<!-- Snake from Platane -->
+<picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebvc/sebvc/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebvc/sebvc/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sebvc/sebvc/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 <!-- [![Seb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sebvc&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/sebvc) -->
 
