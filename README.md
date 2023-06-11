@@ -17,24 +17,25 @@
  -->
 
 <a href="https://github.com/sebvc/Resume">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sebvc&repo=Resume&theme=github_dark" />
+  <img align="center" alt="sebvc/Resume" src="https://github-readme-stats.vercel.app/api/pin/?username=sebvc&repo=Resume&theme=shadow_red&text_color=6e6e6e&border_color=6e6e6e" />
 </a>
 <!-- &emsp;horizontal space -->
 <a href="https://github.com/sebvc/people.tamu.edu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sebvc&repo=people.tamu.edu&theme=github_dark" />
+  <img align="center" alt="Portfolio Website" src="https://github-readme-stats.vercel.app/api/pin/?username=sebvc&repo=people.tamu.edu&theme=shadow_red&text_color=6e6e6e&border_color=6e6e6e" />
 </a>
 <!-- &emsp;horizontal space -->
 <a href="https://github.com/TAMU-Robomasters/aimbots-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TAMU-Robomasters&repo=aimbots-dev&show_owner=true&theme=github_dark" />
+  <img align="center" alt="TAMU Robomasters Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=TAMU-Robomasters&repo=aimbots-dev&show_owner=true&theme=shadow_red&text_color=6e6e6e&border_color=6e6e6e" />
 </a>
 
 <br><!-- new line space <br>-->
 
+
 <a href="https://github.com/sebvc">
-  <img alt="Seb’s Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=sebvc&show_icons=true&include_all_commits=true&rank_icon=github&hide=contribs&title_color=c50000&icon_color=c50000&text_color=6e6e6e&bg_color=00000000&border_color=810202" />
+  <img alt="Seb’s Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=sebvc&show_icons=true&include_all_commits=true&rank_icon=github&hide=contribs&theme=shadow_red&text_color=6e6e6e" />
 </a>
 <a href="https://github.com/sebvc">
-  <img alt="Seb's Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebvc&layout=compact&title_color=c50000&text_color=6e6e6e&bg_color=00000000&border_color=810202&hide_progress=true&hide=Shell&langs_count=8" />
+  <img alt="Seb's Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebvc&hide_progress=true&langs_count=10&theme=shadow_red&text_color=6e6e6e" />
 </a>
 
 
