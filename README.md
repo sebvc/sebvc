@@ -38,7 +38,7 @@
   <img alt="Seb's Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebvc&hide_progress=true&langs_count=10&theme=shadow_red&text_color=6e6e6e" />
 </a>
 
-
+### Contributions 🐍
 <!-- Snake from Platane -->
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebvc/sebvc/output/github-contribution-grid-snake-dark.svg">
