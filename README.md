@@ -6,7 +6,9 @@
 
 <div align="end">
 
-### Hi there 👋 &#10240;&#10240;&#10240; <br> &#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240; &ndash; 🦀
+
+<!-- https://animated-fluent-emoji.vercel.app/ for animated👋🏽 -->
+## Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="👋🏽" width="30" height="30" /> &#10240;&#10240;&#10240; <br> &#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240; &ndash; 🦀
 </div>
 
 <!-- ### Some Fun Stuff 🚀 -->
@@ -38,14 +40,16 @@
   <img alt="Seb's Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebvc&hide_progress=true&langs_count=10&theme=shadow_red&text_color=6e6e6e" />
 </a>
 
-### Contributions 🐍
-<!-- Snake from Platane -->
+<br>
+
+### Contributions 🐍<!-- Snake from Platane -->
+<a href="https://platane.github.io/snk/">
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebvc/sebvc/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebvc/sebvc/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sebvc/sebvc/output/github-contribution-grid-snake.svg">
 </picture>
-
+</a>
 
 <!-- [![Seb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sebvc&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/sebvc) -->
 
